@@ -435,9 +435,9 @@ export function ConsultancySite() {
             </Reveal>
             <Reveal delay={0.08}>
               <div className="contact-panel">
-                <a href="mailto:info@paulenggworks.com">
+                <a href="mailto:sales@paulenggworks.com">
                   <Mail className="size-5" />
-                  info@paulenggworks.com
+                  sales@paulenggworks.com
                 </a>
                 <a
                   href="https://www.linkedin.com/in/nishantpaul"
@@ -451,7 +451,7 @@ export function ConsultancySite() {
                 <div className="rounded-md border border-white/12 bg-white/[0.06] p-4">
                   <p className="flex items-center gap-3 text-sm font-medium text-white">
                     <MapPin className="size-5 shrink-0" />
-                    Delhi NCR | Bengaluru
+                    Delhi NCR | Bengaluru, India
                   </p>
                   <p className="mt-2 text-sm leading-6 text-white/60">
                     Available for international consulting conversations and
@@ -459,7 +459,7 @@ export function ConsultancySite() {
                   </p>
                 </div>
                 <Button asChild className="w-full bg-white text-zinc-950 hover:bg-white/88">
-                  <a href="mailto:info@paulenggworks.com">
+                  <a href="mailto:sales@paulenggworks.com">
                     Request Consultation
                     <CircuitBoard className="size-4" />
                   </a>

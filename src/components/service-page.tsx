@@ -171,9 +171,9 @@ export function ServicePage({
               className="bg-white text-zinc-950 hover:bg-white/88"
               size="lg"
             >
-              <a href="mailto:info@paulenggworks.com">
+              <a href="mailto:sales@paulenggworks.com">
                 <Mail className="size-4" />
-                info@paulenggworks.com
+                sales@paulenggworks.com
               </a>
             </Button>
           </div>
