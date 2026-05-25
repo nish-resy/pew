@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     canonical: "/",
   },
   title: {
-    default: "PEW | Mobile Engineering Consultancy",
+    default: "PEW | Paul Engg Works",
     template: "%s | PEW",
   },
   description:
@@ -42,6 +42,7 @@ export const metadata: Metadata = {
     "distributed engineering consulting",
     "mobile engineering advisory",
     "PEW",
+    "paul engg works",
   ],
   openGraph: {
     description:

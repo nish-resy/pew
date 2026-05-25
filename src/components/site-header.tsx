@@ -28,7 +28,7 @@ export function SiteHeader() {
               PEW
             </span>
             <span className="block truncate text-xs text-muted-foreground">
-              Mobile engineering consultancy
+              Paul Engg Works
             </span>
           </span>
         </Link>

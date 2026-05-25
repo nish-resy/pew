@@ -451,7 +451,7 @@ export function ConsultancySite() {
                 <div className="rounded-md border border-white/12 bg-white/[0.06] p-4">
                   <p className="flex items-center gap-3 text-sm font-medium text-white">
                     <MapPin className="size-5 shrink-0" />
-                    Delhi NCR, India
+                    Delhi NCR | Bengaluru
                   </p>
                   <p className="mt-2 text-sm leading-6 text-white/60">
                     Available for international consulting conversations and
